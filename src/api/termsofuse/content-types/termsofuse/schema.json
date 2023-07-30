@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "termsofuses",
+  "info": {
+    "singularName": "termsofuse",
+    "pluralName": "termsofuses",
+    "displayName": "termsofuse"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "termsofuse": {
+      "type": "text"
+    }
+  }
+}
